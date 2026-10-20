@@ -122,9 +122,7 @@
 ---
 
 ### 📬 Connect With Me
-
 <div align="center">
-
 <a href="https://linkedin.com/in/abdelkhalek-mahmoud-667a991b7" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -133,8 +131,7 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="tel:+201120459467">
-  <img src="https://img.shields.io/badge/Phone-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+<a href="https://wa.me/201120459467" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-
 </div>
