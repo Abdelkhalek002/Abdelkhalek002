@@ -85,11 +85,11 @@
 
 ### 📌 Featured Projects
 
-#### 🏢 [Shopplyn — Enterprise Multi-Tenant E-Commerce Platform](#)
-> Enterprise-grade modular e-commerce & merchant platform built with Laravel 12 & PHP 8.2+.
-- **Architecture**: Multi-tenant architecture organized into **34 isolated domain modules** (Catalog, Subscriptions, Ads, Corporate B2B, Transactions, Messaging) using Domain-Driven Design (DDD) and the Service-Repository pattern.
-- **Security & RBAC**: Multi-guard authentication with Laravel Sanctum, custom OTP flows, and granular Role-Based Access Control via Spatie Permissions.
-- **Real-Time & Performance**: Real-time buyer-merchant messaging using **Pusher (WebSockets)** and asynchronous queue workers for high-volume background data processing and Excel/CSV analytics generation.
+#### 🏢 Shopplyn — Enterprise Multi-Tenant E-Commerce Platform `🔒 Proprietary`
+> Enterprise-grade modular e-commerce & merchant platform built with Laravel 12 & PHP 8.2+ at Go Grow.
+- **Architecture**: Multi-tenant backend organized into **34 isolated domain modules** (Catalog, Subscriptions, Ads, Corporate B2B, Transactions, Messaging) using Domain-Driven Design (DDD) and the Service-Repository pattern.
+- **Security & Access**: Multi-guard authentication with Laravel Sanctum, custom OTP flows, and granular Role-Based Access Control (RBAC) via Spatie Permissions.
+- **Real-Time & Performance**: Real-time buyer-merchant messaging using **Pusher (WebSockets)** and asynchronous queue workers for report generation and high-volume background tasks.
 
 ---
 
