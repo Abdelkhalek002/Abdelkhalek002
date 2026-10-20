@@ -93,7 +93,7 @@
 
 ---
 
-#### 🧭 [Natours — Tour Discovery & Online Booking API](https://github.com/Abdelkhalek002)
+#### 🧭 [Natours — Tour Discovery & Online Booking API](https://github.com/Abdelkhalek002/Natours)
 > Production-grade full-stack booking system powered by Node.js, Express, and MongoDB.
 - **Core APIs**: Advanced query engine supporting filtering, sorting, field limiting, and pagination.
 - **Security**: Hardened via Helmet, rate limiting, NoSQL injection sanitization, parameter pollution protection, and JWT authentication stored in HTTP-only cookies.
@@ -101,7 +101,7 @@
 
 ---
 
-#### 🏥 [Hospital Management System (HMS)](https://github.com/Abdelkhalek002)
+#### 🏥 [Hospital Management System (HMS)](https://github.com/Abdelkhalek002/Hospital-Management-System)
 > Comprehensive university hospital workflow management system with fine-grained access control and end-to-end client portal.
 - **Multi-Role Workflows**: Tailored portals for Students, Counters, Transfer Clerks, Medical Check Managers, and Super Admins.
 - **Features**: Document verification pipeline, appointment scheduling, OTP-based password resets, cron-based automation jobs, and a responsive RTL frontend built with React & Redux Toolkit.
